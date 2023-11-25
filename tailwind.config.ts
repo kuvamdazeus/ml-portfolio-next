@@ -61,9 +61,9 @@ const config: Config = {
       },
       keyframes: {
         "scale-up": {
-          "0%": { transform: "scale(0.9)", opacity: 0 },
-          "70%": { transform: "scale(1.02)", opacity: 0.7 },
-          "100%": { transform: "scale(1)", opacity: 1 },
+          "0%": { transform: "scale(0.9)", opacity: "0" },
+          "70%": { transform: "scale(1.02)", opacity: "0.7" },
+          "100%": { transform: "scale(1)", opacity: "1" },
         },
       },
     },
