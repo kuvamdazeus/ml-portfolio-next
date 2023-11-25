@@ -4,12 +4,7 @@ import Project from "@/components/Project";
 export default function IndexPage() {
   return (
     <section>
-      <h1
-        slot="header-content"
-        className="paragraph text-gray-600 dark:text-gray-500"
-      >
-        kuvam.dev
-      </h1>
+      <h1 className="paragraph text-gray-600 dark:text-gray-500">kuvam.dev</h1>
       <main className="paragraph zaduma-prose py-10">
         <p className="paragraph mb-6">
           <small className="text-gray-600 dark:text-gray-500">
