@@ -21,8 +21,8 @@ export default function IndexPage() {
           <b>Machine Learning Researcher/Engineer</b>.
         </p>
         <p className="paragraph mt-6">
-          I'm currently working as a Django Backend Developer looking for
-          part-time ML opportunities.
+          I'm currently working as a Django Backend Developer looking for ML
+          opportunities.
         </p>
         <p className="paragraph mt-6">
           My motto in life is <i>experiment, experiment, experiment!</i>
